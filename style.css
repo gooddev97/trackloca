@@ -3,7 +3,7 @@
   padding: 0;
 }
 body {
-  background: #bfd7e4;
+  background: #0d364b;
   height: 1930px;
 }
 body::before {
@@ -66,7 +66,7 @@ header p {
 }
 .header-form {
   position: relative;
-  background: #f67669;
+  background: #0d4564;
   border-radius: 20px 20px 0px 0px;
   width: 750px;
   height: 133px;
@@ -113,7 +113,7 @@ input {
 input:focus,
 textarea:focus {
   outline: none;
-  box-shadow: 0 0 0 1px #f89287;
+  box-shadow: 0 0 0 1px #1a498a;
 }
 label {
   font-size: 14px;
@@ -178,7 +178,7 @@ footer {
 footer .button {
   width: 750px;
   height: 56px;
-  background: #f67669;
+  background: #064b64;
   border-radius: 8px;
   border: none;
 
